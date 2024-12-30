@@ -1,4 +1,4 @@
-  Adam Khuarizmi bin maszlan 2115347
+Adam Khuarizmi bin maszlan 2115347
 
 # :wave: The Basics of GitHub 
 
